@@ -34,7 +34,6 @@ public class ja0117 {
         }
         return arr;
         //10분 45초
-        //코드작동X
     }
     public static int[] Ans(int[] arr){
         int indexMin, temp;

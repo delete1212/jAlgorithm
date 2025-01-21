@@ -30,7 +30,7 @@ public class ja0116 {
                     }
                 }
             } else {
-                for(int k=len=i-2;k>i;k--){
+                for(int k=len-i-2;k>i;k--){
                     if(arr[k]<arr[k-1]){
                         int temp=arr[k-1];
                         arr[k-1]=arr[k];
